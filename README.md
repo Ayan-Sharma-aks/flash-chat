@@ -1,6 +1,6 @@
 # Flash Chat ⚡️
 
-Incorporate Firebase into Flutter app. Used Firebase Cloud Firestore as well as the Firebase authentication package to equip the app with a cloud-based NoSQL database and secure authentication methods.
+A chat application that incorporates Firebase into Flutter app. Used Firebase Cloud Firestore as well as the Firebase authentication package to equip the app with a cloud-based NoSQL database and secure authentication methods.
 
 Build a modern messaging app where users can sign up and log in to chat.
 
