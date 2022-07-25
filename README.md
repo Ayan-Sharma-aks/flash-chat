@@ -1,6 +1,6 @@
 # Flash Chat ⚡️
 
-A chat application that incorporates Firebase into Flutter app. Used Firebase Cloud Firestore as well as the Firebase authentication package to equip the app with a cloud-based NoSQL database and secure authentication methods.
+Flash Chat is a chat application, a messenger powered by Firebase Firestore where users can register and then login to chat with other users.Used Firebase Cloud Firestore as well as the Firebase authentication package to equip the app with a cloud-based NoSQL database and secure authentication methods.
 
 Build a modern messaging app where users can sign up and log in to chat.
 
